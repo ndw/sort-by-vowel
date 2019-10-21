@@ -1,4 +1,4 @@
-#+TITLE: Sort by vowels
+#+TITLE: Sort by vowel
 #+DATE: 2019-10-21
 #+AUTHOR: Norman Walsh
 
