@@ -1,0 +1,20 @@
+#+TITLE Sort by vowels
+
+Twitter user [[https://twitter.com/kyleconrau][@kyleconrau]] posted [[https://twitter.com/kyleconrau/status/1186008215752007680][a tweet]]:
+
+#+BEGIN_QUOTE
+A rare form of medieval #index organised by vowel rather than
+alphabet: here we have "mathematics" and "parents" (first vowel a,
+second vowel e) followed by "action" and "anima" (first vowel a,
+second vowel i). BnF Lat. 15754.
+[[https://pbs.twimg.com/media/EHWMLs8WwAcWRng?format=png]]
+#+END_QUOTE
+
+[[https://twitter.com/docum3nt][@docum3nt]] followed up with [[https://twitter.com/docum3nt/status/1186247315109101569][a challenge]]:
+
+#+BEGIN_QUOTE
+Your task, Norm, should you decide to accept it, is to write the elisp
+to let us use M-x sort-by-vowel RET
+#+END_QUOTE
+
+“Challenge accepted.”
