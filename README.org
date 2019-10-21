@@ -1,4 +1,6 @@
-#+TITLE Sort by vowels
+#+TITLE: Sort by vowels
+#+DATE: 2019-10-21
+#+AUTHOR: Norman Walsh
 
 Twitter user [[https://twitter.com/kyleconrau][@kyleconrau]] posted [[https://twitter.com/kyleconrau/status/1186008215752007680][a tweet]]:
 
