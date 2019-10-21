@@ -19,4 +19,4 @@ Your task, Norm, should you decide to accept it, is to write the elisp
 to let us use M-x sort-by-vowel RET
 #+END_QUOTE
 
-“Challenge accepted.”
+“[[https://twitter.com/ndw/status/1186289843552342016][Challenge accepted.]]”
